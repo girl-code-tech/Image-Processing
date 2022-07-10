@@ -1,0 +1,11 @@
+https://towardsdatascience.com/5-powerful-tricks-to-visualize-your-data-with-matplotlib-16bc33747e05
+
+https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
+
+https://www.dezyre.com/data-science-in-python-tutorial/matplotlib-tutorial
+
+https://matplotlib.org/stable/tutorials/introductory/sample_plots.html
+
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
+
+
